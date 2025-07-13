@@ -8,7 +8,7 @@ DecentraClass is a decentralized learning management system (LMS) powered by Xan
 
 ## 🔗 Links
 - 🧵 [X Thread](https://x.com/johnm56466/status/1944131760029413767)
-- 📄 [Pitch Deck (Markdown)](docs/pitch-deck.md)
+- 📄 [Pitch Deck](docs/pitch-deck.md)
 - 🖼️ [Visual Timeline](docs/DecentraClass_Timeline.png)
 
 ## 📘 Docs
